@@ -1,6 +1,6 @@
 # react-native-story-share
 
-Share your images to instagram and snapchat stories.
+Share your images to instagram stories.
 
 | OS | Type | Supported |
 |---|---|:---:|
